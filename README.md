@@ -2,21 +2,21 @@
 
 ## Preprocess data
 
-Enter into Database directory and run the corresponding script, e.g.
+Enter into the Database directory and run the corresponding script, e.g.
 
 ```
 python script_walks_cora.py
 ```
 
 ## Run experiments
-Enter into the root directory and run the corresponding script, e.g.
+Enter into the project directory and run the corresponding script, e.g.
 
 ```
 python script_cora.py
 ```
 
 ## Tips:
-Please create the following log folders in the root directory.
+Please create the following log folders in this project directory.
 ```
 ./Log/cora
 ./Log/citeseer

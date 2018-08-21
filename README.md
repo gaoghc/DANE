@@ -1,10 +1,14 @@
 # DANE
 
-Preprocess data
+## Preprocess data
 
-cd Database \\
-python script_you_want_to_run
+Enter into Database directory and run the corresponding script, e.g.
+'''
+python script_walks_cora.py
+'''
 
-Run experiments
-
-python script_you_want_to_run
+## Run experiments
+Enter into the root directory and run the corresponding script, e.g.
+'''
+python script_cora.py
+'''

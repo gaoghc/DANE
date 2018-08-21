@@ -1,4 +1,4 @@
-# DANE
+# Deep Attributed Network Embedding
 
 ## Preprocess data
 
